@@ -205,19 +205,16 @@ print("\nCleaned dataset saved successfully.")
 ---
 
 ## Output
+<img width="1325" height="718" alt="image" src="https://github.com/user-attachments/assets/23da186d-232f-4480-9f50-86104cc24849" />
+<img width="1322" height="727" alt="image" src="https://github.com/user-attachments/assets/ebc0af7b-3d25-403e-8069-6bc20dc7e32b" />
+<img width="1312" height="730" alt="image" src="https://github.com/user-attachments/assets/424d756a-83f4-440d-9a91-794461eca01b" />
+<img width="1313" height="722" alt="image" src="https://github.com/user-attachments/assets/ebbbfa8b-67be-4817-8a2e-275a9af565bd" />
+<img width="1280" height="730" alt="image" src="https://github.com/user-attachments/assets/91b2ea07-9507-426c-b115-d2874894af65" />
+<img width="1252" height="736" alt="image" src="https://github.com/user-attachments/assets/f27a8003-7229-4a50-8c8d-e6c7f7a9b561" />
+<img width="1216" height="725" alt="image" src="https://github.com/user-attachments/assets/84e8591c-4ce4-434f-9fcf-8c81834419ed" />
+<img width="1288" height="723" alt="image" src="https://github.com/user-attachments/assets/77cd4f73-fda4-4e3b-ab09-ea27d9496fd3" />
+<img width="1317" height="728" alt="image" src="https://github.com/user-attachments/assets/8719a446-8bb8-4139-944d-a83dcfe8d116" />
 
-Add screenshots of the following outputs:
-
-- Dataset preview (`head()`)
-- Matches per Season Bar Chart
-- Top Winning Teams Bar Chart
-- Toss Decision Bar Chart
-- Stadiums Hosting Maximum Matches Horizontal Bar Chart
-
----
-
-
----
 
 ## Result
 
